@@ -19,8 +19,7 @@ $ npm install
 ### Development
 
 ```bash
-$ npm run dev![Uploading image-1.png…]()
-
+$ npm run dev
 ```
 
 ### Build
