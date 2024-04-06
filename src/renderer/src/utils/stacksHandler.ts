@@ -1,0 +1,13 @@
+export { default as fastapi } from '../assets/stack-icons/fastapi.svg';
+export { default as flask } from '../assets/stack-icons/flask.svg';
+export { default as github } from '../assets/stack-icons/github.svg';
+export { default as javascript } from '../assets/stack-icons/javascript.svg';
+export { default as linux } from '../assets/stack-icons/linux.svg';
+export { default as node } from '../assets/stack-icons/node.svg';
+export { default as postgresql } from '../assets/stack-icons/postgresql.svg';
+export { default as python } from '../assets/stack-icons/python.svg';
+export { default as react } from '../assets/stack-icons/react.svg';
+export { default as sqlite } from '../assets/stack-icons/sqlite.svg';
+export { default as styled } from '../assets/stack-icons/styled.svg';
+export { default as tailwind } from '../assets/stack-icons/tailwind.svg';
+export { default as typescript } from '../assets/stack-icons/typescript.svg';

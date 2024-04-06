@@ -1,0 +1,10 @@
+export { default as discord } from '../assets/tiny-icons/tiny-discord.svg';
+export { default as email } from '../assets/tiny-icons/tiny-email.svg';
+export { default as facebook } from '../assets/tiny-icons/tiny-facebook.svg';
+export { default as instagram } from '../assets/tiny-icons/tiny-instagram.svg';
+export { default as linkedin } from '../assets/tiny-icons/tiny-linkedin.svg';
+export { default as steam } from '../assets/tiny-icons/tiny-steam.svg';
+export { default as twitch } from '../assets/tiny-icons/tiny-twitch.svg';
+export { default as whatsapp } from '../assets/tiny-icons/tiny-whatsapp.svg';
+export { default as twitter } from '../assets/tiny-icons/tiny-twitter.svg';
+export { default as github } from '../assets/stack-icons/github.svg';
